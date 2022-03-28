@@ -12,7 +12,7 @@ As a kid, one of my favorite games was Halo. In this project, I will create an a
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Also, define the the React components and the architectural design of your app.
 
-![image-menu](https://res.cloudinary.com/sitely/image/upload/v1648472668/menu1_qnxsic.jpg)
+![image-menu](https://res.cloudinary.com/sitely/image/upload/v1648473221/manu012_bkdmit.png)
 
 
 ### MVP/PostMVP - 5min
