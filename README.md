@@ -2,19 +2,17 @@
 
 ## Project Links
 
-- [CodeSandbox Link]()
+- [https://codesandbox.io/s/final-project-halo-api-reese-pgviw0?file=/src/App.js]()
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
-
+As a kid, one of my favorite games was Halo. In this project, I will create an app that, using an API, will display information about Halo's characters, vehicles, lore and more. 
 
 ## Wireframes
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Also, define the the React components and the architectural design of your app.
 
-- [shmeep]()
-- [add link to your react architecture]()
+- [https://res.cloudinary.com/sitely/image/upload/v1648472668/menu1_qnxsic.jpg]()
 
 
 ### MVP/PostMVP - 5min
@@ -22,21 +20,19 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.  
 
 #### MVP EXAMPLE
-- Home page with several sections about my site
-- Products page that will render product info pulled in via an API  
-- Ability for user to favorite a product
-- Ability for user to add product to shopping cart
+- Home page with several sections of my app
+- Items rendering data w/ a wireframed design
 
 #### PostMVP EXAMPLE
 
-- Add Stripe or Shopify Pay for checkout
-- Caputre users email in a form and send an automated response
-- Build the app for mobile/tablet/desktop
 
 ## API
 
 If you opted to make use of an API then use this section to include info about the API you have chosen and a code snippet of the data that it returns and is required for your project. 
 
+| Halo API |
+- I've registered and verified this is the API I'd like to use.
+[](https://developer.haloapi.com/)
 
 ```
 {data: {} }
@@ -50,8 +46,9 @@ Based on the initial logic defined in the previous sections try and breakdown th
 | Component | Description | 
 | --- | :---: |  
 | App | This will make the initial data pull and include React Router| 
-| Header | This will render the header include the nav | 
-| Footer | This will render the header include the nav | 
+| Home | This will render the home page | 
+| Category | This will render a page that allows the user to select between item categories | 
+| Item | Each item on the app will be rendered on the item page with title, description and image | 
 
 
 ## Additional Libraries
