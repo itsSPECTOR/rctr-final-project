@@ -6,13 +6,13 @@
 
 ## Project Description
 
-As a kid, one of my favorite games was Halo. In this project, I will create an app that, using an API, will display information about Halo's characters, vehicles, lore and more. 
+A growing need for businesses to connect with their team and cultivate company culture sparked my idea for a platform that does just that. Cultivate. I allow users to manipulate the app and create their own company culture. Teams can interact and engage with relevant events on their dashboard.
 
 ## Wireframes
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Also, define the the React components and the architectural design of your app.
 
-![image-menu](https://res.cloudinary.com/sitely/image/upload/v1648473221/manu012_bkdmit.png)
+![image-menu](https://res.cloudinary.com/sitely/image/upload/v1649891491/eCompany-Home_antxcp.png)
 
 
 ### MVP/PostMVP - 5min
@@ -45,9 +45,9 @@ Based on the initial logic defined in the previous sections try and breakdown th
 
 | Component | Description | 
 | --- | :---: |  
-| App | This will make the initial data pull and include React Router| 
-| Home | This will render the home page | 
-| Category | This will render a page that allows the user to select between item categories | 
+| App | Will render Home first, and use Router to navigate around the app | 
+| Home | This will contain posts, notifications and more data | 
+| Add Post | This is where users can create company posts | 
 | Item | Each item on the app will be rendered on the item page with title, description and image | 
 
 
